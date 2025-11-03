@@ -4,10 +4,10 @@
 
 ### HTML темплейты для ваших сайтов-заглушек
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SmallPoppa/sni-templates)
-![GitHub stars](https://img.shields.io/github/stars/SmallPoppa/sni-templates)
-![GitHub forks](https://img.shields.io/github/forks/SmallPoppa/sni-templates)
-![GitHub last commit](https://img.shields.io/github/last-commit/SmallPoppa/sni-templates)
+![GitHub repo size](https://img.shields.io/github/repo-size/Famebloody/sni-templates)
+![GitHub stars](https://img.shields.io/github/stars/Famebloody/sni-templates)
+![GitHub forks](https://img.shields.io/github/forks/Famebloody/sni-templates)
+![GitHub last commit](https://img.shields.io/github/last-commit/Famebloody/sni-templates)
 
 [![AI Generated](https://img.shields.io/badge/🤖_AI-Generated-purple?style=for-the-badge)](https://github.com/features/copilot)
 
@@ -116,7 +116,7 @@
 
 ### Клонирование репозитория
 ```bash
-git clone https://github.com/SmallPoppa/sni-templates.git
+git clone https://github.com/Famebloody/sni-templates.git
 cd sni-templates
 ```
 
@@ -126,9 +126,9 @@ cd sni-templates
 ```bash
 # Пример для шаблона ошибки 503
 mkdir -p /var/www/html/assets
-wget https://raw.githubusercontent.com/SmallPoppa/sni-templates/main/503%20error%20pages/v1/index.html -O /var/www/html/index.html
-wget https://raw.githubusercontent.com/SmallPoppa/sni-templates/main/503%20error%20pages/v1/assets/style.css -P /var/www/html/assets
-wget https://raw.githubusercontent.com/SmallPoppa/sni-templates/main/503%20error%20pages/v1/assets/main.js -P /var/www/html/assets
+wget https://raw.githubusercontent.com/Famebloody/sni-templates/main/503%20error%20pages/v1/index.html -O /var/www/html/index.html
+wget https://raw.githubusercontent.com/Famebloody/sni-templates/main/503%20error%20pages/v1/assets/style.css -P /var/www/html/assets
+wget https://raw.githubusercontent.com/Famebloody/sni-templates/main/503%20error%20pages/v1/assets/main.js -P /var/www/html/assets
 ```
 
 ## 🛠️ Технологии
@@ -220,8 +220,8 @@ sni-templates/
 
 ## 📞 Контакты
 
-- GitHub: [@SmallPoppa](https://github.com/SmallPoppa)
-- Вопросы и предложения: создайте [Issue](https://github.com/SmallPoppa/sni-templates/issues)
+- GitHub: [@Famebloody](https://github.com/Famebloody)
+- Вопросы и предложения: создайте [Issue](https://github.com/Famebloody/sni-templates/issues)
 
 ---
 
@@ -231,6 +231,6 @@ sni-templates/
 
 *Создано коллаборацией современных AI-инструментов: Bolt.new × Ideogram.ai × GitHub Copilot × ChatGPT*
 
-**Автор проекта**: [@SmallPoppa](https://github.com/SmallPoppa) • **Дата создания README**: 27 мая 2025
+**Автор проекта**: [@Famebloody](https://github.com/Famebloody) • **Дата создания README**: 27 мая 2025
 
 </div>
